@@ -29,10 +29,35 @@ The UPI Payment System is a web-based application that allows users to perform v
   - Allow users to update their credentials or personal information.
 
 # Getting Started
-1. Clone the Repository:
+To run the UPI Payment System, follow these steps:
 
-  ~ git clone https://github.com/your-username/upi-payment-system.git
-  ~ cd upi-payment-system
-3. Install Dependencies:
-   # Example installation command, replace with your package manager
-   ~ npm install
+1. Clone the repository to your local machine.
+2. Open the project in your preferred Java development environment.
+3. Run the Main class to start the UPI Payment System.
+
+# Usage
+- Login:
+
+   - Enter your username and PIN to log in.
+- Navigate:
+
+   - Use the navigation buttons to access different features such as sending money, checking balance, etc.
+- Perform Transactions:
+
+   - Follow the on-screen instructions to send or request money.
+- Manage Profile:
+
+   - Update your account details and preferences in the profile section.
+- Beneficiary Management:
+
+   - Add, edit, or delete beneficiaries for faster transactions.
+
+# Contributing
+We welcome contributions! If you'd like to contribute to the UPI Payment System,Please let me know!
+
+# Contact
+- Email: sudhirlokade111@gmail.com
+- Github: https://github.com/SudhirLokade
+- Linkedin: https://www.linkedin.com/in/sudhirlokade
+
+Happy Coding!
